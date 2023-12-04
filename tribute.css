@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    display: flex;
+    justify-content:end;
+    align-items: center;
+    gap: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 30px;
+}
+.ele{
+    padding-right: 10px;
+    font-family: sans-serif;
+}
+.body{
+    display: flex;
+    padding-top: 1rem;
+}
+.left{
+    width: 72%;
+    height: 27rem;
+}
+.right{
+    background-color:azure;
+    width: 25%;
+    height: 27rem;
+    border: 1px black solid;
+
+}
+.name{
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+    font-weight:900;
+    padding: 10px;
+}
+.img{
+    display: flex;
+    justify-content: center;
+}
+.pre{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+.article_body{
+    display: flex;
+    justify-content: center;
+}
+.article{
+    width: 90%;
+    height: 27rem;
+    font-weight: 600;
+    padding-top: 20px;
+}
+.edu_body{
+    display: flex;
+    justify-content: center;
+}
+.education{
+    width: 94%;
+    font-weight: 600;
+    padding-top: 20px;
+}
+.career_body{
+    display: flex;
+    justify-content: center;
+}
+.career{
+    width: 94%;
+    font-weight: 600;
+    padding-top: 20px;
+}
+.presi_body{
+    display: flex;
+    justify-content: center;
+}
+.presidency{
+    width: 94%;
+    font-weight: 600;
+    padding-top: 20px;
+}
+.death_body{
+    display: flex;
+    justify-content: center;
+}
+.death{
+    width: 94%;
+    font-weight: 600;
+    padding-top: 20px;
+}
+
